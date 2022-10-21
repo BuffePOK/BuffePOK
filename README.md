@@ -8,7 +8,7 @@
 
 ### About me =)
 - 🎓 Second year Applied Computer Science at Jagiellonian University, Bachelor
-- 🤖 Student of [GMUM]: https://gmum.net/, "Group of Machine Learning Research"
+- 🤖 Student of [GMUM: https://gmum.net/, "Group of Machine Learning Research"]
 
 
 <!--
