@@ -1,9 +1,14 @@
-### Hello everyone👋, **Dmytro Dychenko a.k.a. {username} is here!**
----------------------------------------------------
-**I am a 3rd year student at the Jagiellonian University. I am interested in Data Science, Neural Networks, AI, Python, Java, NodeJS, C/C++.**
----------------------------------------------------
-## About me =)
+# Hello everyone👋, **Dmytro Dychenko a.k.a. _BuffePOK_ is here!**
 
+---------------------------------------------------
+
+**I am a 3rd year student at the Jagiellonian University. I am interested in Data Science, Neural Networks, AI, Python, Java, NodeJS, C/C++.**
+
+---------------------------------------------------
+
+### About me =)
+- 🎓 Second year Applied Computer Science at Jagiellonian University, Bachelor
+- 🤖 Student of [GMUM]: https://gmum.net/, "Group of Machine Learning Research"
 
 
 <!--
