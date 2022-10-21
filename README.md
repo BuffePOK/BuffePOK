@@ -1,4 +1,6 @@
 ### Hello everyone 👋, **Dmytro Dychenko is here!**
+---------------------------------------------------
+**I am a 3rd year student at the Jagiellonian University. I am interested in Data Science, Neural Networks, AI, Python, Java, NodeJS, C/C++.**
 
 <!--
 **BuffePOK/BuffePOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
