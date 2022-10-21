@@ -20,7 +20,14 @@
 |---|---|
 | Test | Description |
 
+---
 
+### 🔗Links & Social Networks
+|**[GitHub](https://github.com/BuffePOK)**|**[LinkedIn](https://www.linkedin.com/in/dmytro-dychenko-29a962197/)**|**[CodeForces](https://codeforces.com/profile/BaffePOK)**|**[Kaggle](https://www.kaggle.com/lord0fdarkness)**|
+
+---
+
+# Looking for a job #
 
 <!--
 **BuffePOK/BuffePOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
