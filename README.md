@@ -18,7 +18,22 @@
 ### 💻 Some of my code
 | **Project** | **Description** |
 |---|---|
-| Test | Description |
+| [Food Calculator](/food_calculator) | Calculation of the required amount of vitamins and minerals. In development: Suggestion of a recommended diet |
+|---|---|
+| [Stock Market](/stock_market) | Data acquisition and analysis of the crypto market. Trading strategy (unprofitable) |
+|---|---|
+| [Numerical Methods in UJ](/Metody-Numeryczne-UJ) | Introducing to the most important numerical algorithms and their applications in scientific and engineering computing and more advanced topics such as machine learning |
+|---|---|
+| [Grafical Interfaces in UJ](/Interfejsy-Graficzne-UJ) | Introducing to the methods and techniques of designing, implementing, testing and evaluating user interfaces |
+|---|---|
+| [Java Language in UJ](/Java-Language-UJ) | introducing to Java |
+|---|---|
+| [Data Science in UJ](/Data-Science-UJ) | Basic knowledge and skills in data analysis by machine learning methods: data mining, classification, regression, grouping methods, statistical inference. The exercises are implemented using standard libraries and Python language. |
+|---|---|
+| [Semantical Internet in UJ](/Semantyczny-Internet-UJ) | Introducing to the tools, methods and practical applications of the semantic approach to the Internet and the Semantic Web Project |
+|---|---|
+
+
 
 ---
 
