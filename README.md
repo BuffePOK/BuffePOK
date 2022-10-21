@@ -15,12 +15,10 @@
 
 ===
 
-###💻Some of my code
-|---|---|
+### 💻 Some of my code
 | **Project** | **Description** |
 |---|---|
 | Test | Description |
-|---|---|
 
 
 
