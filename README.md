@@ -3,7 +3,7 @@
 
 **I am a 3rd year student at the Jagiellonian University. I am interested in Data Science, Neural Networks, AI, Python, Java, NodeJS, C/C++.**
 
-===
+---
 
 ### About me 😊
 - 🎓 Second year Applied Computer Science at Jagiellonian University, Bachelor
@@ -13,7 +13,7 @@
 - 🥕 I'm writing a script that will count calories and suggest a diet.
 - 📚 List of books I have [read](../books.txt)
 
-===
+---
 
 ### 💻 Some of my code
 | **Project** | **Description** |
