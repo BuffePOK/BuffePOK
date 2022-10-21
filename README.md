@@ -6,7 +6,7 @@
 ---
 
 ### About me 😊
-- 🎓 Second year Applied Computer Science at Jagiellonian University, Bachelor
+- 🎓 Third year Applied Computer Science at Jagiellonian University, Bachelor
 - 🤖 Student of [GMUM JU](https://gmum.net/)
 - 🤔 Participant of lectures on Machine learning (JU)
 - 📈 I am interested in cryptocurrency trading, market analysis.
