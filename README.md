@@ -11,7 +11,7 @@
 - 🤔 Participant of lectures on Machine learning (JU)
 - 📈 I am interested in cryptocurrency trading, market analysis.
 - 🥕 I'm writing a script that will count calories and suggest a diet.
-- 📚 List of books I have [read](../books.txt)
+- 📚 List of books I have [read](books.txt)
 
 ---
 
