@@ -17,21 +17,13 @@
 
 ### 💻 Some of my code
 | **Project** | **Description** |
-|---|---|
-| [Food Calculator](/food_calculator) | Calculation of the required amount of vitamins and minerals. In development: Suggestion of a recommended diet |
-|---|---|
-| [Stock Market](/stock_market) | Data acquisition and analysis of the crypto market. Trading strategy (unprofitable) |
-|---|---|
-| [Numerical Methods in UJ](/Metody-Numeryczne-UJ) | Introducing to the most important numerical algorithms and their applications in scientific and engineering computing and more advanced topics such as machine learning |
-|---|---|
-| [Grafical Interfaces in UJ](/Interfejsy-Graficzne-UJ) | Introducing to the methods and techniques of designing, implementing, testing and evaluating user interfaces |
-|---|---|
-| [Java Language in UJ](/Java-Language-UJ) | introducing to Java |
-|---|---|
-| [Data Science in UJ](/Data-Science-UJ) | Basic knowledge and skills in data analysis by machine learning methods: data mining, classification, regression, grouping methods, statistical inference. The exercises are implemented using standard libraries and Python language. |
-|---|---|
-| [Semantical Internet in UJ](/Semantyczny-Internet-UJ) | Introducing to the tools, methods and practical applications of the semantic approach to the Internet and the Semantic Web Project |
-|---|---|
+| [Food Calculator](BuffePOK/food_calculator) | Calculation of the required amount of vitamins and minerals. In development: Suggestion of a recommended diet |
+| [Stock Market](BuffePOK/stock_market) | Data acquisition and analysis of the crypto market. Trading strategy (unprofitable) |
+| [Numerical Methods in UJ](BuffePOK/Metody-Numeryczne-UJ) | Introducing to the most important numerical algorithms and their applications in scientific and engineering computing and more advanced topics such as machine learning |
+| [Grafical Interfaces in UJ](BuffePOK/Interfejsy-Graficzne-UJ) | Introducing to the methods and techniques of designing, implementing, testing and evaluating user interfaces |
+| [Java Language in UJ](BuffePOK/Java-Language-UJ) | Introducing to Java |
+| [Data Science in UJ](BuffePOK/Data-Science-UJ) | Basic knowledge and skills in data analysis by machine learning methods: data mining, classification, regression, grouping methods, statistical inference. The exercises are implemented using standard libraries and Python language. |
+| [Semantical Internet in UJ](BuffePOK/Semantyczny-Internet-UJ) | Introducing to the tools, methods and practical applications of the semantic approach to the Internet and the Semantic Web Project |
 
 
 
