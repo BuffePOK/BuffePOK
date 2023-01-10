@@ -42,24 +42,8 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BuffePOK&show_icons=true&count_private=true&include_all_commits=true&count_private=true&custom_title=My%statistics&line_height=28&locale=pl&border_color=008000&title_color=008000&icon_color=008000&bg_color=00000000&text_color=afafaf" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BuffePOK&show_icons=true&count_private=true&include_all_commits=true&count_private=true&custom_title=My%20statistics&line_height=28&locale=en&border_color=0000ff&title_color=0000ff&icon_color=0000ff&bg_color=00000000&text_color=afafaf" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuffePOK&layout=compact&langs_count=10&custom_title=Most%20used%20languages&card_width=297&title_color=008000&border_color=008000&bg_color=00000000&text_color=afafaf&hide=Jupyter%20Notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuffePOK&layout=compact&langs_count=10&custom_title=Most%20used%20languages&card_width=297&title_color=0000ff&border_color=0000ff&bg_color=00000000&text_color=afafaf&hide=Jupyter%20Notebook" />
 </a>
-
-
-<!--
-**BuffePOK/BuffePOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
