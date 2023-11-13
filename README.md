@@ -1,41 +1,28 @@
 # Hello everyone👋, **Dmytro Dychenko a.k.a. _BuffePOK & Lord0fDarkness_ is here!**
 
-
-**I am a 3rd year student at the Jagiellonian University. I am interested in Data Science, Neural Networks, AI, Python, Java, NodeJS, C/C++.**
-
----
-
-### About me 😊
-- 🎓 Third year Applied Computer Science at Jagiellonian University, Bachelor
-- 🤖 Student of [GMUM JU](https://gmum.net/)
-- 🤔 Participant of lectures on Machine learning (JU)
-- 📈 I am interested in cryptocurrency trading, market analysis.
-- 🥕 I'm writing a script that will count calories and suggest a diet.
-- 📚 List of books I have [read](books.txt)
+**As a passionate student with a keen interest in programming, I am dedicated to exploring and contributing to various areas of technology. My interests span cloud services, backend development, Java Spring, databases, Docker, IoT, algorithms, data science, and AI. I am particularly drawn to the creation and development of microservices and enjoy immersing myself in project intricacies to fully understand and solve challenges.
+**
 
 ---
 
-### 💻 Some of my code
-| **Project** | **Description** |
-| --- | --- |
-| [Food Calculator](https://github.com/BuffePOK/food_calculator) | Calculation of the required amount of vitamins and minerals. In development: Suggestion of a recommended diet |
-| [Stock Market](https://github.com/BuffePOK/stock_market) | Data acquisition and analysis of the crypto market. Trading strategy (unprofitable) |
-| [Kaggle](https://github.com/BuffePOK/Kaggle) | My projects in Kaggle. Also [**certificates.**](https://github.com/BuffePOK/Kaggle#readme) |
-| [Data Science in UJ](https://github.com/BuffePOK/Data-Science-UJ) | Basic knowledge and skills in data analysis by machine learning methods: data mining, classification, regression, grouping methods, statistical inference. The exercises are implemented using standard libraries and Python language. |
-| [Numerical Methods in UJ](https://github.com/BuffePOK/Metody-Numeryczne-UJ) | Introducing to the most important numerical algorithms and their applications in scientific and engineering computing and more advanced topics such as machine learning |
-| [Grafical Interfaces in UJ](https://github.com/BuffePOK/Interfejsy-Graficzne-UJ) | Introducing to the methods and techniques of designing, implementing, testing and evaluating user interfaces |
-| [Java Language in UJ](https://github.com/BuffePOK/Java-Language-UJ) | Introducing to Java |
-| [Semantical Internet in UJ](https://github.com/BuffePOK/Semantyczny-Internet-UJ) | Introducing to the tools, methods and practical applications of the semantic approach to the Internet and the Semantic Web Project |
-| [Python UJ](https://github.com/BuffePOK/PythonUJ) | Introducing to Python. |
-
-
+### 💻 Some of my projects
+| **Project** | **Date** | **Technologies** | **Description** |
+| --- | --- | --- | --- |
+| [Auto message dispatch bot](https://github.com/AutoMessage-DispatchBot) | 10.2023 | TCP/IP, Java Swing, Selenium WebDriver, Javax Mail | Developed a system for automating message dispatch via email and WhatsApp.
+My role involved project conceptualization, data creation, establishing connections, and architectural design. |
+| [Bike Rental Service](https://github.com/Rent-a-Bike-Bicycle-rental-system) | 11.2023 | REST-API, Java Spring, PostgreSQL, RabbitMQ, Javax Mail, Telegram API, React.js | Implemented a backend-driven website for bike rentals, including email notifications and Telegram bot integrations for administrative communication. Contributed to all stages of project development from concept to architecture |
+| [Kyokushin Competition Website](https://github.com/kyokushin-karate-competitions) | 12.2023 - 01.2024 |  TLS, Java Spring (Spring Boot, Spring Security, Hibernate, Spring Data), PostgreSQL, RabbitMQ, React.js | Created a competition website for Kyokushin karate, including participant management, point assignment, and tatami management. Focused on creating a smooth user experience and efficient backend processing |
+| [Logistics Ecosystem](https://github.com/logistics-ecosystem) | 02.2024 - 05.2024 | TLS, Java Spring (Spring Boot, Spring Security, Hibernate, Spring Data), PostgreSQL, RabbitMQ, React.js,
+Python (Data Science and Machine Learning), RPC | Developed a logistics management system integrating machine learning for route optimization and order analysis. Played a key role in data integration and architectural design |
+| [Trading on the Crypto Exchange](https://github.com/CryptoSphere-Nexus) | 06.2024 - 12.2024 | TLS, C++ (Bot trading), Binance API, Bank API, Java Spring (Spring Boot, Spring Security, Hibernate, Spring Data), PostgreSQL, RabbitMQ, React.js, Python (Data Science and Machine Learning), RPC | Engineered a cryptocurrency trading platform with automated trading capabilities, financial management, and analytical reporting. Focused on ensuring robust security and efficient data handling. |
+| [Ecosystem of Home Rental Management](https://github.com/Comprehensive-Property-Management-Suite) | 01.2025 - 06.2025 | TLS, Java Spring (Spring Boot, Spring Security, Hibernate, Spring Data), PostgreSQL, RabbitMQ, React.js, Python (Data Science and Machine Learning), RPC | : Spearheaded the development of a comprehensive property management system, incorporating features for price analysis, maintenance reminders, and tenant management |
+| [Advertising Management Ecosystem](https://github.com/MediaMatrix-Suite) | 07.2025 - 12.2025 | TLS, Java Spring (Spring Boot, Spring Security, Hibernate, Spring Data), PostgreSQL, RabbitMQ, React.js, Python (Data Science and Machine Learning), RPC | Created a multi-platform advertising management system, focusing on account analysis, video content management, and user engagement strategies. |
 
 ---
 
 ### 🔗Links & Social Networks
-| [📜 **GitHub**](https://github.com/BuffePOK) | [👤 **LinkedIn**](https://www.linkedin.com/in/dmytro-dychenko-29a962197/) |
 |---|---|
-| [💪 **CodeForces**](https://codeforces.com/profile/BaffePOK) | [🧠 **Kaggle**](https://www.kaggle.com/lord0fdarkness) |
+| [📜 **GitHub**](https://github.com/BuffePOK) | [👤 **LinkedIn**](https://www.linkedin.com/in/dmytro-dychenko-29a962197/) |
 
 ---
 
