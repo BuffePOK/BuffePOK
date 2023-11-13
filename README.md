@@ -19,7 +19,6 @@
 ---
 
 ### 🔗Links & Social Networks
-|---|---|
 | [📜 **GitHub**](https://github.com/BuffePOK) | [👤 **LinkedIn**](https://www.linkedin.com/in/dmytro-dychenko-29a962197/) |
 
 ---
