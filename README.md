@@ -1,7 +1,7 @@
 # Hello everyone👋, **Dmytro Dychenko a.k.a. _BuffePOK & Lord0fDarkness_ is here!**
-
-**As a passionate student with a keen interest in programming, I am dedicated to exploring and contributing to various areas of technology. My interests span cloud services, backend development, Java Spring, databases, Docker, IoT, algorithms, data science, and AI. I am particularly drawn to the creation and development of microservices and enjoy immersing myself in project intricacies to fully understand and solve challenges.
-**
+### [Curriculum vitae](https://buffepok.github.io/BuffePOK/CV-Dmytro-Dychenko.pdf)
+_
+As a passionate student with a keen interest in programming, I am dedicated to exploring and contributing to various areas of technology. My interests span cloud services, backend development, Java Spring, databases, Docker, IoT, algorithms, data science, and AI. I am particularly drawn to the creation and development of microservices and enjoy immersing myself in project intricacies to fully understand and solve challenges._
 
 ---
 
