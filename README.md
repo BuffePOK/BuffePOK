@@ -11,6 +11,7 @@ _As a passionate student with a keen interest in programming, I am dedicated to 
 | [Auto message dispatch bot](https://github.com/AutoMessage-DispatchBot) | 10.2023 | TCP/IP, Java Swing, Selenium WebDriver, Javax Mail | Developed a system for automating message dispatch via email and WhatsApp. My role involved project conceptualization, data creation, establishing connections, and architectural design. |
 | [Bike Rental Service](https://github.com/Rent-a-Bike-Bicycle-rental-system) | 11.2023 | REST-API, Java Spring, PostgreSQL, RabbitMQ, Javax Mail, Telegram API, React.js | Implemented a backend-driven website for bike rentals, including email notifications and Telegram bot integrations for administrative communication. Contributed to all stages of project development from concept to architecture |
 | [Logistics Ecosystem](https://github.com/logistics-ecosystem) | 02.2024 - present | TLS, Java Spring (Spring Boot, Spring Security, Hibernate, Spring Data), PostgreSQL, RabbitMQ, React.js, Python (Data Science and Machine Learning), RPC, Platforms APIs | Developed a logistics management system integrating machine learning for route optimization and order analysis. Played a key role in data integration and architectural design |
+| [Crypto-Exchange](https://github.com/CryptoLogistics-Hub) | 05.2024 - present | Spring, PostgreSQL, Redis, MongoDB, TypeScript, FacePrint, Nearest Neighbor Search, gRPC, Platforms APIs | Crypto Exchanger |
 
 ---
 
